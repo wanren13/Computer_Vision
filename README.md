@@ -1,2 +1,2 @@
 # Computer_Vision
-A face alignment project
+A face alignment Matlab program.
